@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1f242d;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    width: 100%;
+}
+
+main>div {
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+
+}
+
+.development {
+    height: 55vh;
+    width: 40vw;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+}
+
+.dev {
+    margin-bottom: 25px;
+}
+
+.programming {
+    height: 50vh;
+    width: 40vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.Skills h1 {
+    padding-bottom: 35px;
+}
+.head{
+    padding-top:50px ;
+}
